@@ -69,22 +69,6 @@ export function Header() {
 
         {/* Mobile */}
         <div className="flex items-center gap-2 md:hidden">
-          <Button
-            size="sm"
-            className="rounded-full text-xs px-3 h-8 shadow-md bg-primary hover:bg-primary/90 text-white"
-            asChild
-          >
-            <a
-              href={WA_LINK}
-              target="_blank"
-              rel="noopener noreferrer"
-              aria-label="Pedir turno"
-            >
-              <WhatsAppIcon className="mr-1.5 h-3.5 w-3.5" />
-              Turno
-            </a>
-          </Button>
-
           <Sheet>
             <SheetTrigger asChild>
               <Button
