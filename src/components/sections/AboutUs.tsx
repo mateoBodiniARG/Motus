@@ -20,7 +20,7 @@ import {
 /* ─── Data ──────────────────────────────────────────────────── */
 const stats = [
   { value: 10, suffix: "+", label: "Años de experiencia", icon: Award },
-  { value: 5000, suffix: "+", label: "Pacientes atendidos", icon: Users },
+  { value: 570, suffix: "+", label: "Pacientes atendidos", icon: Users },
   { value: 5, suffix: "", label: "Especialidades", icon: Stethoscope },
   { value: 4.9, suffix: "★", label: "Reseñas de Google", icon: Star },
 ];

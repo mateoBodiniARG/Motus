@@ -12,8 +12,8 @@ import { WhatsAppIcon } from "@/components/icons/WhatsAppIcon";
 import Image from "next/image";
 
 const WA_LINK = "https://api.whatsapp.com/send/?phone=%2B543412502044&text&type=phone_number&app_absent=0&utm_source=ig";
-const IG_LINK = "#";
-const FB_LINK = "#";
+const IG_LINK = "https://www.instagram.com/motusclinica/?hl=es";
+const FB_LINK = "https://www.facebook.com/MotusClinicaIntegral/?locale=es_LA";
 
 export function Footer() {
   return (

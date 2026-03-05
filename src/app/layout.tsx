@@ -9,8 +9,8 @@ export const metadata: Metadata = {
   title: "Mōtus Clínica Integral",
   description: "Clínica de salud integral enfocada en el cuidado personalizado, el bienestar físico y el seguimiento humano en Rosario.",
   icons: {
-    icon: "/MotusLogo.png",
-    apple: "/MotusLogo.png",
+    icon: "/LogoBlancoFavIcon.png",
+    apple: "/LogoBlancoFavIcon.png",
   }
 };
 

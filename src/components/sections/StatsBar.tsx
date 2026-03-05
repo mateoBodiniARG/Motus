@@ -13,7 +13,7 @@ const stats = [
   },
   {
     icon: Users,
-    value: "+5.000",
+    value: "+570",
     label: "Pacientes atendidos",
     color: "text-sky-500",
     bg: "bg-sky-50",
